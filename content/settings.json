@@ -15,8 +15,8 @@
   "icon": "/img/icon.png",
   "large_icon": "/img/large-icon.png",
   "favicon": "/img/uploads/favicon.png",
-  "lang": "en_sg",
-  "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "lang": "en",
+  "currency": "SGD",
+  "currency_symbol": "S$",
+  "country_code": "SG"
 }
