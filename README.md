@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/faizulho/sgmelayu-storefront)
+
 # storefront
 
 [![CodeFactor](https://www.codefactor.io/repository/github/ecomclub/storefront/badge)](https://www.codefactor.io/repository/github/ecomclub/storefront)
